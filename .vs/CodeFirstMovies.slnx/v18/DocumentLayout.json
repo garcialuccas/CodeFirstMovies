@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\54568203821\\Desktop\\CodeFirstMovies\\CodeFirstMovies\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E6869A23-003A-43BC-A6B9-5E25AD97BABE}|CodeFirstMovies.csproj|c:\\users\\54568203821\\desktop\\codefirstmovies\\codefirstmovies\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6869A23-003A-43BC-A6B9-5E25AD97BABE}|CodeFirstMovies.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F81EC4F9-9F6E-F35E-90D2-E73E047B1377}|CodeFirstMovies.csproj|c:\\users\\54568203821\\desktop\\codefirstmovies\\codefirstmovies\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81EC4F9-9F6E-F35E-90D2-E73E047B1377}|CodeFirstMovies.csproj|solutionrelative:models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6869A23-003A-43BC-A6B9-5E25AD97BABE}|CodeFirstMovies.csproj|c:\\users\\54568203821\\desktop\\codefirstmovies\\codefirstmovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6869A23-003A-43BC-A6B9-5E25AD97BABE}|CodeFirstMovies.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F81EC4F9-9F6E-F35E-90D2-E73E047B1377}|CodeFirstMovies.csproj|c:\\users\\54568203821\\desktop\\codefirstmovies\\codefirstmovies\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81EC4F9-9F6E-F35E-90D2-E73E047B1377}|CodeFirstMovies.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6869A23-003A-43BC-A6B9-5E25AD97BABE}|CodeFirstMovies.csproj|c:\\users\\54568203821\\desktop\\codefirstmovies\\codefirstmovies\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E6869A23-003A-43BC-A6B9-5E25AD97BABE}|CodeFirstMovies.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F81EC4F9-9F6E-F35E-90D2-E73E047B1377}|CodeFirstMovies.csproj|c:\\users\\54568203821\\desktop\\codefirstmovies\\codefirstmovies\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F81EC4F9-9F6E-F35E-90D2-E73E047B1377}|CodeFirstMovies.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6869A23-003A-43BC-A6B9-5E25AD97BABE}|CodeFirstMovies.csproj|c:\\users\\54568203821\\desktop\\codefirstmovies\\codefirstmovies\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6869A23-003A-43BC-A6B9-5E25AD97BABE}|CodeFirstMovies.csproj|solutionrelative:models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F81EC4F9-9F6E-F35E-90D2-E73E047B1377}|CodeFirstMovies.csproj|c:\\users\\54568203821\\desktop\\codefirstmovies\\codefirstmovies\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81EC4F9-9F6E-F35E-90D2-E73E047B1377}|CodeFirstMovies.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6869A23-003A-43BC-A6B9-5E25AD97BABE}|CodeFirstMovies.csproj|c:\\users\\54568203821\\desktop\\codefirstmovies\\codefirstmovies\\models\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6869A23-003A-43BC-A6B9-5E25AD97BABE}|CodeFirstMovies.csproj|solutionrelative:models\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F81EC4F9-9F6E-F35E-90D2-E73E047B1377}|CodeFirstMovies.csproj|c:\\users\\54568203821\\desktop\\codefirstmovies\\codefirstmovies\\models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81EC4F9-9F6E-F35E-90D2-E73E047B1377}|CodeFirstMovies.csproj|solutionrelative:models\\genero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E6869A23-003A-43BC-A6B9-5E25AD97BABE}|CodeFirstMovies.csproj|c:\\users\\54568203821\\desktop\\codefirstmovies\\codefirstmovies\\models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E6869A23-003A-43BC-A6B9-5E25AD97BABE}|CodeFirstMovies.csproj|solutionrelative:models\\filme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F81EC4F9-9F6E-F35E-90D2-E73E047B1377}|CodeFirstMovies.csproj|c:\\users\\54568203821\\desktop\\codefirstmovies\\codefirstmovies\\models\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81EC4F9-9F6E-F35E-90D2-E73E047B1377}|CodeFirstMovies.csproj|solutionrelative:models\\diretor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -46,12 +46,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-18T19:10:37.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T19:10:37.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\54568203821\\Desktop\\CodeFirstMovies\\CodeFirstMovies\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -59,12 +58,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T19:08:52.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T19:08:52.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\54568203821\\Desktop\\CodeFirstMovies\\CodeFirstMovies\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -77,7 +75,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Genero.cs",
               "DocumentMoniker": "C:\\Users\\54568203821\\Desktop\\CodeFirstMovies\\CodeFirstMovies\\Models\\Genero.cs",
               "RelativeDocumentMoniker": "Models\\Genero.cs",
@@ -85,25 +83,24 @@
               "RelativeToolTip": "Models\\Genero.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T18:54:37.86Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T18:54:37.86Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Filme.cs",
               "DocumentMoniker": "C:\\Users\\54568203821\\Desktop\\CodeFirstMovies\\CodeFirstMovies\\Models\\Filme.cs",
               "RelativeDocumentMoniker": "Models\\Filme.cs",
               "ToolTip": "C:\\Users\\54568203821\\Desktop\\CodeFirstMovies\\CodeFirstMovies\\Models\\Filme.cs",
               "RelativeToolTip": "Models\\Filme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-18T18:52:33.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Diretor.cs",
               "DocumentMoniker": "C:\\Users\\54568203821\\Desktop\\CodeFirstMovies\\CodeFirstMovies\\Models\\Diretor.cs",
               "RelativeDocumentMoniker": "Models\\Diretor.cs",
@@ -111,8 +108,7 @@
               "RelativeToolTip": "Models\\Diretor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T18:51:37.29Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-18T18:51:37.29Z"
             }
           ]
         }

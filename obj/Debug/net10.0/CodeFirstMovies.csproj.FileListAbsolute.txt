@@ -160,3 +160,4 @@ C:\Users\54568203821\Desktop\CodeFirstMovies\CodeFirstMovies\obj\Debug\net10.0\r
 C:\Users\54568203821\Desktop\CodeFirstMovies\CodeFirstMovies\obj\Debug\net10.0\CodeFirstMovies.pdb
 C:\Users\54568203821\Desktop\CodeFirstMovies\CodeFirstMovies\obj\Debug\net10.0\CodeFirstMovies.genruntimeconfig.cache
 C:\Users\54568203821\Desktop\CodeFirstMovies\CodeFirstMovies\obj\Debug\net10.0\ref\CodeFirstMovies.dll
+C:\Users\54568203821\Desktop\CodeFirstMovies\CodeFirstMovies\obj\Debug\net10.0\CodeFirstMovies.sourcelink.json

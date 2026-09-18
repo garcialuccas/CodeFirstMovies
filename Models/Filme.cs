@@ -13,5 +13,7 @@
         public string Titulo { get; set; }
 
         public string Sinopse { get; set; }
+
+        public int DuracaoMin {  get; set; }
     }
 }
